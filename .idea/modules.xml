@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dineshrockjvm.iml" filepath="$PROJECT_DIR$/.idea/modules/dineshrockjvm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dineshrockjvm-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dineshrockjvm-build.iml" />
     </modules>
   </component>
 </project>
