@@ -7,20 +7,10 @@ object valuesVariablesTypes extends App{
   var y = 33
   println(s"the output of value y is $y")
   val aboolean: Boolean =true
-  println(aboolean)
+//  println(aboolean)
+  val a= true
 
-  val acondition: Int = if(aboolean) 5 else 3
- // println(acondition)
-
-  //while loop
-
-  var a = 1
-
-  while (a<10){
-    println(a)
-    a+=2
-  }
-
-
+  val b = if(true) 5 else 4
+  println(b)
 
 }
