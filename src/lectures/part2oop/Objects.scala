@@ -1,12 +1,9 @@
 package lectures.part2oop
 object Objects extends App
 {
-object person
-{
-  val N_EYES=2
-  def canFly: Boolean = false
-}
-class Person{
-}
-println(person.N_EYES)
+object Person
+  def f1(x:Int) = {
+    println(s"SQRT of $x is " + Math.sqrt(x))
+    def f2(y:Int) = Math.sqrt(x+y)
+  }
 }
